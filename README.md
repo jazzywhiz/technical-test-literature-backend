@@ -217,4 +217,4 @@ La aplicación tiene CORS habilitado con una política permisiva para desarrollo
 
 ## 📄 Licencia
 
-Este proyecto está licenciado bajo [MIT License](LICENSE).
+Este proyecto está licenciado bajo [MIT License](LICENSE.txt).
