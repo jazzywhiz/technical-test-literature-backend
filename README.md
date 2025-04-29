@@ -11,10 +11,9 @@ API para gestionar información sobre libros y autores, implementada con arquite
 Literature es una API RESTful que actúa como intermediario entre aplicaciones frontend y una API externa. El proyecto sigue los principios de Clean Architecture, organizando el código en capas con responsabilidades claramente definidas:
 
 - **Literature.Api**: Capa de presentación con endpoints REST y documentación
-- **Literature.Application**: Capa de aplicación con lógica de negocio y DTOs
+- **Literature.Application**: Capa de aplicación con lógica de negocio y objetos de transferencia de datos
 - **Literature.Domain**: Capa de dominio con entidades principales y contratos
 - **Literature.Infrastructure**: Capa de infraestructura para acceso a servicios externos
-- **Literature.Tests**: Proyecto para pruebas unitarias
 
 ## ⚙️ Tecnologías principales
 
